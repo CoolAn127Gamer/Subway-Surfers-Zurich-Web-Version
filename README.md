@@ -3,6 +3,6 @@
 #### Click the link to play lol
 
 ## Controls
-Arrow Keys: Movements (Obvlously)
-Space:Skate
-ESC: Pause
+#### Arrow Keys: Movements (Obvlously)
+#### Space:Skate
+#### ESC: Pause
